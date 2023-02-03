@@ -1,0 +1,30 @@
+{
+  "name": "color-swatchify",
+  "version": "1.0.0",
+  "description": "It allows users to easily swap the colors in an image to a different set of colors",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalxtyagi/color-swatchify.git"
+  },
+  "keywords": [
+    "color",
+    "swatchify",
+    "swap-color",
+    "color-swatchify"
+  ],
+  "author": "Vishal Tyagi",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/vishalxtyagi/color-swatchify/issues"
+  },
+  "homepage": "https://github.com/vishalxtyagi/color-swatchify#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
